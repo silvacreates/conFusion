@@ -59,3 +59,17 @@ body {
 	left: 0;
 	min-height: 300px;
 }
+
+.btn-warning {
+	color: #ffffff;
+}
+
+.btn-warning:hover {
+  color: #ffffff;
+}
+
+#carouselButton {
+	right: 0;
+	position: absolute;
+	bottom: 0px;
+}
